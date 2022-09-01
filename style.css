@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#h-small{
+
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+}
+#h-big{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+.main-div{
+    margin: 10vw;
+    width: 80vw;
+    
+}
+body{
+    background-color:black;
+}
+.main-div-1{
+    width: 300px;
+    display: inline-block;
+    margin: 0px 15px;
+    background-color:rgba(216, 173, 15, 0.94);
+    padding: 10px;
+   
+}
+.imagec{
+     width:300px;
+    
+}
+hr{
+    border: none;
+    background-color: yellow;
+    width: 200px;
+    margin: auto;
+    height: 4px;
+}
+.hclass{
+    font-size: 20px;
+    padding:10px 0px; 
+    color: yellow;
+    
+}
+.pclass{
+    font-size: 15px;
+    padding:6px 0px;
+}
+.more{
+    background-color: yellow;
+    width: fit-content;
+    padding: 3px 6px;
+    
+}
